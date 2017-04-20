@@ -6,4 +6,6 @@ def func():
     return i
 
 func()
+for i in xrange(0, 10):
+    print i
 
